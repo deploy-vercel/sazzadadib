@@ -4,14 +4,14 @@ import { Experience } from '../types';
 
 export const experienceData: Experience[] = [
   {
-    id: 'robot-bulls-ai-research-engineer',
-    role: 'AI Research Engineer',
+    id: 'robot-bulls-ai-researcher-developer',
+    role: 'AI Researcher & Developer',
     organization: 'Robot Bulls',
     type: 'industry',
     duration: 'Mar 2026 – Present',
     current: true,
     summary:
-      'Researching and developing a real-time Talking Head system — a conversational AI with a live, responsive face that lets users hold natural, face-to-face voice conversations with AI.',
+      'Owning both the research and development of a real-time Talking Head system — a conversational AI with a live, responsive face that lets users hold natural, face-to-face voice conversations with AI.',
     highlights: [
       'Researching and building a real-time Talking Head system for live, face-to-face AI conversations',
       'Designing low-latency streaming pipelines for natural, real-time speech-to-speech interaction',
@@ -38,8 +38,9 @@ export const experienceData: Experience[] = [
     duration: 'Apr 2025 – Present',
     current: true,
     summary:
-      'Conducting applied AI/ML research spanning efficient LLM deployment and real-time video understanding — co-authored Z-Pruner (IEEE AICCSA 2025) and developed TimeClipAI, a real-time action localization framework.',
+      'Conducting applied AI/ML research spanning efficient LLM deployment and real-time video understanding — co-authored DUGO (IEEE BigData 2026) and Z-Pruner (IEEE AICCSA 2025), and developed TimeClipAI, a real-time action localization framework.',
     highlights: [
+      'Co-authoring DUGO, a dual-scale Gaussian memory framework for online temporal action localization published at IEEE BigData 2026',
       'Co-authoring Z-Pruner, a post-training LLM pruning method published at IEEE AICCSA 2025',
       'Developing TimeClipAI, a real-time temporal action localization framework with state-of-the-art benchmark results',
       'Implementing and benchmarking deep learning models in PyTorch',

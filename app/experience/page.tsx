@@ -11,7 +11,7 @@ import { experienceData } from '@/lib/data/experience';
 export const metadata: Metadata = {
   title: 'Experience',
   description:
-    'Professional experience of MD. Sazzad Hossain Adib — AI Research Engineer at Robot Bulls and Research Assistant at MILAB, North South University.',
+    'Professional experience of MD. Sazzad Hossain Adib — AI Researcher & Developer at Robot Bulls and Research Assistant at MILAB, North South University.',
 };
 
 export default function ExperiencePage() {

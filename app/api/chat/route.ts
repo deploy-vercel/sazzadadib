@@ -6,11 +6,11 @@ const SAZZAD_CV_DATA = `
 MD. Sazzad Hossain Adib - AI Engineer & Researcher
 
 PROFESSIONAL EXPERIENCE:
-1. AI Research Engineer — Robot Bulls (March 2026 – Present)
+1. AI Researcher & Developer — Robot Bulls (March 2026 – Present)
    - Researching and developing a real-time Talking Head system — a conversational AI with a live, responsive face
    - Building low-latency real-time streaming pipelines for natural speech-to-speech interaction
    - Integrating conversational LLMs with synchronized facial animation for a responsive AI avatar
-   - Owning R&D end-to-end, from research and prototyping to production implementation
+   - Owning both research and development end-to-end — from researching models and prototyping to building the production system
 
 2. Research Assistant — MILAB, North South University (April 2025 – Present)
    - Conducting AI and Machine Learning research
@@ -18,6 +18,7 @@ PROFESSIONAL EXPERIENCE:
    - Building research prototypes and preparing experiments and publications
    - Collaborating with faculty members
    - Co-authored Z-Pruner, published at IEEE AICCSA 2025
+   - Co-authored DUGO, accepted at IEEE BigData 2026
    - Developed TimeClipAI, a real-time temporal action localization framework
 
 CONTACT INFORMATION:
@@ -108,7 +109,12 @@ KEY PROJECTS:
    - End-to-end booking features
 
 PUBLICATIONS:
-- "Z-Pruner: Post-Training Pruning of Large Language Models for Efficiency without Retraining"
+1. "DUGO: Dual-Scale Gaussian Memory for Online Temporal Action Localization in Egocentric Procedural Videos"
+- Authors: Mohammed Aman Bhuiyan, Md. Sazzad Hossain Adib, Samiul Basir Bhuiyan, Mir Faiyaz Hossain, Syed Mohammed Shamsul Islam, Md Zakir Hossain, Shafin Rahman
+- Accepted at IEEE BigData 2026 (2026 IEEE International Conference on Big Data)
+- ArXiv: arxiv.org/abs/2610.41402
+
+2. "Z-Pruner: Post-Training Pruning of Large Language Models for Efficiency without Retraining"
 - Authors: Md. Samiul Basir Bhuiyan, Md. Sazzad Hossain Adib, Mohammed Aman Bhuiyan, Muhammad Rafsan Kabir, Moshiur Farazi, Shafin Rahman, Nabeel Mohammed
 - Accepted at IEEE AICCSA 2025
 - ArXiv: arxiv.org/abs/2508.15828

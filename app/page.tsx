@@ -66,7 +66,7 @@ export default function HomePage() {
         <SectionHeading
           eyebrow="03 · Research"
           title="Published research"
-          description="Peer-reviewed work on making large language models cheaper to deploy."
+          description="Peer-reviewed work spanning real-time video understanding and efficient large language model deployment."
         />
         <div className="mx-auto max-w-4xl">
           <Reveal>

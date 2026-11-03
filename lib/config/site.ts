@@ -6,7 +6,7 @@ export const siteConfig = {
   shortName: 'Sazzad Adib',
   role: 'AI Engineer & Researcher',
   tagline:
-    'AI Research Engineer at Robot Bulls and Research Assistant at MILAB, North South University — building real-time conversational AI systems and publishing research on efficient AI.',
+    'AI Researcher & Developer at Robot Bulls and Research Assistant at MILAB, North South University — researching and building real-time conversational AI systems and publishing research on efficient AI.',
   description:
     'Portfolio of MD. Sazzad Hossain Adib — AI Engineer and Researcher specializing in LLM systems, RAG pipelines, efficient model deployment, and full-stack AI applications.',
   url: process.env.NEXT_PUBLIC_SITE_URL ?? 'http://localhost:3000',
@@ -17,7 +17,7 @@ export const siteConfig = {
   links: {
     github: 'https://github.com/sazzadadib',
     linkedin: 'https://linkedin.com/in/sazzadadib',
-    scholar: 'https://scholar.google.com/citations?user=sazzadadib',
+    scholar: 'https://scholar.google.com/citations?user=wRk3C-wAAAAJ&hl=en',
   },
   keywords: [
     'AI Engineer',

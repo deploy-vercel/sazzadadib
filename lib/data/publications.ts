@@ -4,6 +4,26 @@ import { Publication } from '../types';
 
 export const publicationsData: Publication[] = [
   {
+    id: "dugo-2026",
+    title: "DUGO: Dual-Scale Gaussian Memory for Online Temporal Action Localization in Egocentric Procedural Videos",
+    authors: [
+      "Mohammed Aman Bhuiyan",
+      "Md. Sazzad Hossain Adib",
+      "Samiul Basir Bhuiyan",
+      "Mir Faiyaz Hossain",
+      "Syed Mohammed Shamsul Islam",
+      "Md Zakir Hossain",
+      "Shafin Rahman"
+    ],
+    venue: "IEEE BigData 2026",
+    year: 2026,
+    status: "accepted",
+    links: {
+      arxiv: "https://arxiv.org/abs/2610.41402"
+    },
+    abstract: "Online Temporal Action Localization (OnTAL) aims to detect and localize action instances from untrimmed streaming videos in real time, without access to future frames. DUGO is a new OnTAL framework that jointly models local motion dynamics and long-range temporal dependencies through a Dual-Scale Temporal Encoder, pairing depth-wise local representations with global self-attention, and a Gaussian Memory Bank that represents action memory as stochastic, input-conditioned Gaussian prototypes applied via gated cross-attention. Extensive experiments on procedural egocentric datasets (EGTEA, EPIC-Kitchens-100) demonstrate state-of-the-art performance, with substantial improvements on non-egocentric benchmarks such as Muses."
+  },
+  {
     id: "z-pruner-2025",
     title: "Z-Pruner: Post-Training Pruning of Large Language Models for Efficiency without Retraining",
     authors: [

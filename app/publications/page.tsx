@@ -15,7 +15,7 @@ import { researchInterests } from '@/lib/data/profile';
 export const metadata: Metadata = {
   title: 'Publications',
   description:
-    'Academic publications by MD. Sazzad Hossain Adib, including Z-Pruner (IEEE AICCSA 2025) on efficient post-training pruning of large language models.',
+    'Academic publications by MD. Sazzad Hossain Adib, including DUGO (IEEE BigData 2026) on online temporal action localization and Z-Pruner (IEEE AICCSA 2025) on efficient post-training pruning of large language models.',
 };
 
 const focusAreas = [

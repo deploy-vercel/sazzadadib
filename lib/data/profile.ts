@@ -9,10 +9,10 @@ export const profileData: Profile = {
   location: "Uttara, Dhaka-1230, Bangladesh",
   linkedin: "https://linkedin.com/in/sazzadadib",
   github: "https://github.com/sazzadadib",
-  scholar: "https://scholar.google.com/citations?user=sazzadadib",
+  scholar: "https://scholar.google.com/citations?user=wRk3C-wAAAAJ&hl=en",
   bio: [
-    "I am an AI Research Engineer at Robot Bulls and a Research Assistant at MILAB, North South University, where I completed my B.Sc. in Computer Science and Engineering in December 2025 with a CGPA of 3.83/4.00 and a Merit Scholarship for ranking in the top 1% of my class.",
-    "My work sits at the intersection of research and production: at Robot Bulls, I'm researching and building a real-time Talking Head system — letting users hold natural, face-to-face voice conversations with AI. At MILAB, I co-authored Z-Pruner, a post-training LLM pruning method published at IEEE AICCSA 2025, and developed TimeClipAI, a real-time temporal action localization framework. My research spans Temporal Action Localization, Efficient LLM Deployment, and Small Language Models for edge AI.",
+    "I am an AI Researcher & Developer at Robot Bulls and a Research Assistant at MILAB, North South University, where I completed my B.Sc. in Computer Science and Engineering in December 2025 with a CGPA of 3.83/4.00 and a Merit Scholarship for ranking in the top 1% of my class.",
+    "My work sits at the intersection of research and production: at Robot Bulls, I'm researching and building a real-time Talking Head system — letting users hold natural, face-to-face voice conversations with AI. At MILAB, I co-authored DUGO, a dual-scale Gaussian memory framework for online temporal action localization published at IEEE BigData 2026, and Z-Pruner, a post-training LLM pruning method published at IEEE AICCSA 2025. My research spans Temporal Action Localization, Efficient LLM Deployment, and Small Language Models for edge AI.",
     "I am actively open to research collaborations and AI engineering opportunities, with a particular interest in real-time conversational AI, efficient model deployment, and real-world applications of large language models."
   ]
 };
@@ -26,7 +26,7 @@ export const educationData: Education = {
   cgpa: "3.83/4.00",
   achievements: [
     "Merit Scholarship - Top 1% of class",
-    "Published research at IEEE AICCSA 2025",
+    "Published research at IEEE AICCSA 2025 and IEEE BigData 2026",
     "Led multiple AI and full-stack development projects"
   ]
 };
